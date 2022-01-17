@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hrutu24
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C And 
--
+- 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me hruthwikaglave@gmail.com
 
